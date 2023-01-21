@@ -24,3 +24,38 @@
 .nav-text{
     color: #343638;
 }
+.first-div{
+    background: #F6F8F9;
+    width: 1160px;
+    height: 410px;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  .div1{
+    width: 360px;
+    height: 350px;
+    background: white;
+   
+  }
+  .p-text{
+    font-size: 13px;
+    color: #A6ADB4;
+    margin-top: 66px;
+    margin-left: 40px;
+    width: 280px;
+  }
+  .time{
+    margin-top: 10px;
+    margin-left: 40px;
+  }
+  .box-div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  .trending{
+    font-size: 24px;
+  }
+.body{
+    background: #F6F8F9;
+}
