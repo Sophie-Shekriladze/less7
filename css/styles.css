@@ -4,24 +4,27 @@
     background: #F6F8F9;
     width: 1440px;
     height: 50px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 	
 }
 .navigation{
     display: flex;
     align-items: center;
-	width: 1350px;
+	width: 1400px;
 	
 }
 .nav-2{
     display: flex;
-    width: 400px;
+    width: 350px;
     justify-content: space-between;
     margin-left: 92px;
 }
 .logo{
     color: #FA6980;
 }
-.nav-text{
+.home{
     color: #343638;
 }
 .first-div{
@@ -30,6 +33,11 @@
     height: 410px;
     margin: 0 auto;
     margin-top: 40px;
+    top: 170;
+  }
+
+  .conteineri1{
+    margin-top: 100px;
   }
   .div1{
     width: 360px;
@@ -58,4 +66,5 @@
   }
 .body{
     background: #F6F8F9;
+    height: 5000px;
 }
