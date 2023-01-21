@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+	justify-content: center; 
+    background: #F6F8F9;
+    width: 1440px;
+    height: 50px;
+	
+}
+.navigation{
+    display: flex;
+    align-items: center;
+	width: 1350px;
+	
+}
+.nav-2{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    margin-left: 92px;
+}
+.logo{
+    color: #FA6980;
+}
+.nav-text{
+    color: #343638;
+}
