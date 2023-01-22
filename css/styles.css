@@ -7,6 +7,7 @@
     position: fixed;
     top: 0px;
     left: 0px;
+    z-index: 300;
 	
 }
 .navigation{
@@ -26,6 +27,7 @@
 }
 .home{
     color: #343638;
+    font-size: 11px;
 }
 .first-div{
     background: #F6F8F9;
@@ -34,6 +36,17 @@
     margin: 0 auto;
     margin-top: 40px;
     top: 170;
+  }
+  .img-div{
+    position: absolute; 
+  }
+
+  .img-text{
+    position: absolute;
+    color: white;
+    top: 28px;
+    left: 40px;
+    font-size: 16px;
   }
 
   .conteineri1{
@@ -48,9 +61,11 @@
   .p-text{
     font-size: 13px;
     color: #A6ADB4;
-    margin-top: 66px;
+    margin-top: 245px;
     margin-left: 40px;
     width: 280px;
+    
+    z-index: 20;
   }
   .time{
     margin-top: 10px;
@@ -61,10 +76,55 @@
     justify-content: space-between;
     margin-top: 40px;
   }
+
   .trending{
     font-size: 24px;
   }
+
 .body{
     background: #F6F8F9;
     height: 5000px;
+}
+
+.div2{
+    width: 1160px;
+    background: red;
+    margin: 0 auto;
+    margin-top: 58px;
+}
+.happening{
+    font-size: 24px;
+}
+
+.image-nature{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 1160px;
+    margin-top: 40px;
+}
+
+.nature2{
+    margin-top: 40px;
+}
+
+.morbi{
+    position: relative; 
+    
+}
+.morbi2{
+    position: absolute;
+    top: 194px;
+    left: 308px;
+    font-size: 16px;
+    color: white;
+}
+
+.img-box2{
+    width: 360px;
+        
+}
+
+.first-div{
+    width: 760;
 }
