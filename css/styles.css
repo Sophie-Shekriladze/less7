@@ -79,21 +79,25 @@
 
   .trending{
     font-size: 24px;
+    font-weight: bold;
+    color: #202124;
   }
 
 .body{
     background: #F6F8F9;
-    height: 5000px;
+    font-family: 'Helvetica';
 }
 
 .div2{
     width: 1160px;
-    background: red;
     margin: 0 auto;
     margin-top: 58px;
+    margin-bottom: 100px;
 }
 .happening{
     font-size: 24px;
+    font-weight: bold;
+    color: #202124;
 }
 
 .image-nature{
@@ -125,6 +129,11 @@
         
 }
 
-.first-div{
+.second-div{
     width: 760;
+}
+
+.nat4{
+    margin-top: 102px;
+    margin-bottom: 102px;
 }
